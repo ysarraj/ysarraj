@@ -68,8 +68,8 @@
 
 ### Get in touch
 - ✉︎ **y.sarraj@outlook.com**  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/REPLACE_ME/  
-- 🌐 **WebClinic:** https://webclinic.ch
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/youssef-s-89474591/
+- 🌐 **Genkai Works:** https://genkai.works
 
 ---
 
