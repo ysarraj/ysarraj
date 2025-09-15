@@ -1,6 +1,6 @@
 <!-- If your GitHub username differs, change it below in the stats URLs -->
 <h1 align="left">Youssef Sarraj</h1>
-<p><strong>Finance-trained engineer building AI/DeFi and travel/healthcare products — Switzerland ⇄ Japan</strong></p>
+<p><strong>Finance-trained engineer building AI/DeFi and travel/healthcare products, Switzerland ⇄ Japan</strong></p>
 
 <p>
   <a href="https://genkai.works"><img alt="Website" src="https://img.shields.io/badge/Website-genkai.works-informational"></a>
