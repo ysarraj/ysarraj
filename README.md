@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://genkai.works"><img alt="Website" src="https://img.shields.io/badge/Website-genkai.works-informational"></a>
-  <a href="https://cal.com/ysarraj/intro"><img alt="Book Intro Call" src="https://img.shields.io/badge/Book%20Call-cal.com-brightgreen"></a>
+  <a href="https://cal.com/ysarraj/intro-call"><img alt="Book Intro Call" src="https://img.shields.io/badge/Book%20Call-cal.com-brightgreen"></a>
   <a href="mailto:y.sarraj@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-y.sarraj%40outlook.com-blue"></a>
   <a href="https://www.linkedin.com/in/youssef-s-89474591/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2"></a>
   <img alt="Location" src="https://img.shields.io/badge/Base-CH%20%E2%86%94%20JP-forestgreen">
