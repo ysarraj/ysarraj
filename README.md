@@ -17,11 +17,11 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 ---
 
 ### Building Now
-- **[InitialJ.com](https://github.com/ysarraj/InitialJ.com)** — Full-stack JDM car import platform with Next.js 15, Prisma ORM, and Stripe integration
-- **[Market-Sensei](https://github.com/ysarraj/market-sensei)** — DeFi trading terminal with AI assistance and automated liquidation strategies
-- **WebClinic** — Swiss healthcare SaaS with custom websites and digital tooling for medical practices  
-- **3xpat.com** — Platform for expatriate community with location services
-- **[Genkai Works](https://github.com/ysarraj/genkai.works)** — Swiss software house (SARL) specializing in finance/healthcare/Japan market solutions
+- **[InitialJ.com](InitialJ.com)** — Full-stack JDM car import platform with Next.js 15, Prisma ORM, and Stripe integration
+- **[Market-Sensei](www.marketsensei.app)** — DeFi trading terminal with AI assistance and automated liquidation strategies
+- **[WebClinic](webclinic.ch)** — Swiss healthcare SaaS with custom websites and digital tooling for medical practices  
+- **[3xpat.com](3xpat.com)** — Platform for expatriate community with location services
+- **[Genkai Works](genkai.works)** — Swiss software house (SARL)
 
 ---
 
