@@ -1,5 +1,5 @@
 <h1 align="left">Youssef Sarraj</h1>
-<p><strong>Finance-trained engineer building AI/DeFi and travel/healthcare products, Switzerland ⇄ Japan</strong></p>
+<p><strong>Finance-trained engineer building sector-agnostic products (AI/DeFi, travel, healthcare), Switzerland ⇄ Japan</strong></p>
 
 <p>
   <a href="https://genkai.works"><img alt="Website" src="https://img.shields.io/badge/Website-genkai.works-informational"></a>
@@ -12,7 +12,7 @@
 ---
 
 ### About
-MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Founder of Genkai Works SARL**, a Swiss software house building **finance × tech** products. **Le Wagon AI bootcamp** graduate shipping **full-stack applications** with **7+ years DeFi** trading background and **Japan market** expertise.
+MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Founder of Genkai Works SARL**, a Swiss, sector-agnostic software house building product-driven solutions. **Le Wagon AI bootcamp** gradu[...]
 
 ---
 
@@ -21,7 +21,7 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 - **[Market-Sensei](www.marketsensei.app)** — DeFi trading terminal with AI assistance and automated liquidation strategies
 - **[WebClinic](webclinic.ch)** — Swiss healthcare SaaS with custom websites and digital tooling for medical practices  
 - **[3xpat.com](3xpat.com)** — Platform for expatriate community with location services
-- **[Genkai Works](genkai.works)** — Swiss software house (SARL)
+- **[Genkai Works](genkai.works)** — Swiss software house (SARL), sector-agnostic
 
 ---
 
@@ -57,12 +57,12 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 ---
 
 ### Genkai Works Services
-**Swiss software house** offering consulting and development in **automotive tech**, **import/export platforms**, **healthcare digitization**, and **DeFi integrations**. Proven experience building **payment systems**, **multi-role applications**, and **Japan-Switzerland** market connections.
+**Swiss, sector-agnostic software house** offering consulting and development across industries — including automotive tech, import/export platforms, healthcare digitization, and DeFi integrations. Proven experience building **p[...]
 
 ---
 
 **Languages:** English · French · Japanese  
-**Contact:** [📅 Book a call](https://cal.com/ysarraj/intro) | y.sarraj@outlook.com | [LinkedIn](https://www.linkedin.com/in/youssef-s-89474591/) | [genkai.works](https://genkai.works)
+**Contact:** [📅 Book a call](https://cal.com/ysarraj/intro-call) | y.sarraj@outlook.com | [LinkedIn](https://www.linkedin.com/in/youssef-s-89474591/) | [genkai.works](https://genkai.works)
 
 ---
 
@@ -72,4 +72,3 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysarraj&show_icons=true&theme=default&count_private=true)
 
 </details>
-
