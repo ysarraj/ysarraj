@@ -73,13 +73,3 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 
 </details>
 
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysarraj&show_icons=true&theme=default&count_private=true)
-
-</details>
-
