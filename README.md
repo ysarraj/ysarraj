@@ -12,7 +12,7 @@
 ---
 
 ### About
-MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now building **finance × tech** products. **Le Wagon AI bootcamp** graduate shipping **full-stack applications** with **7+ years DeFi** trading background and **Japan market** expertise.
+MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Founder of Genkai Works SARL**, a Swiss software house building **finance × tech** products. **Le Wagon AI bootcamp** graduate shipping **full-stack applications** with **7+ years DeFi** trading background and **Japan market** expertise.
 
 ---
 
@@ -21,7 +21,7 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now buildi
 - **[Market-Sensei](https://github.com/ysarraj/market-sensei)** — DeFi trading terminal with AI assistance and automated liquidation strategies
 - **WebClinic** — Swiss healthcare SaaS with custom websites and digital tooling for medical practices  
 - **3xpat.com** — Platform for expatriate community with location services
-- **[Genkai.works](https://github.com/ysarraj/genkai.works)** — Personal portfolio and project showcase
+- **[Genkai Works](https://github.com/ysarraj/genkai.works)** — Swiss software house (SARL) specializing in finance/healthcare/Japan market solutions
 
 ---
 
@@ -31,6 +31,7 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now buildi
 **Database:** PostgreSQL, MySQL, SQLite  
 **Payments:** Stripe integration, PDF generation  
 **DevOps:** Docker, deployment automation, environment management  
+**Business:** Swiss SARL operations, client management, project delivery  
 **Specialties:** DeFi protocols, Healthcare compliance, Japan import/export, Automotive platforms
 
 ---
@@ -46,6 +47,7 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now buildi
 ---
 
 ### Experience
+- **Founder & CEO:** Genkai Works SARL - Swiss software house serving finance, healthcare, and Japan market clients
 - **Japan market expertise:** JDM import platform connecting Japanese automotive culture with international markets
 - **Swiss healthcare:** Digital transformation with GDPR-compliant implementations  
 - **DeFi systems:** Automated trading and liquidation monitoring with real capital
@@ -54,13 +56,23 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now buildi
 
 ---
 
-### Open to
-Consulting/freelance in **automotive tech**, **import/export platforms**, **healthcare digitization**, or **DeFi integrations**. Proven experience building **payment systems**, **multi-role applications**, and **Japan-Switzerland** market connections.
+### Genkai Works Services
+**Swiss software house** offering consulting and development in **automotive tech**, **import/export platforms**, **healthcare digitization**, and **DeFi integrations**. Proven experience building **payment systems**, **multi-role applications**, and **Japan-Switzerland** market connections.
 
 ---
 
 **Languages:** English · French · Japanese  
 **Contact:** [📅 Book a call](https://cal.com/ysarraj/intro) | y.sarraj@outlook.com | [LinkedIn](https://www.linkedin.com/in/youssef-s-89474591/) | [genkai.works](https://genkai.works)
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysarraj&show_icons=true&theme=default&count_private=true)
+
+</details>
+
 
 ---
 
