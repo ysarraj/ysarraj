@@ -12,7 +12,7 @@
 ---
 
 ### About
-MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Founder of Genkai Works SARL**, a Swiss, sector-agnostic software house building product-driven solutions. **Le Wagon AI bootcamp graduate** 
+MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Founder of Genkai Works SARL**, a Swiss, sector-agnostic software house building product-driven solutions. **Le Wagon AI Software bootcamp graduate** 
 
 ---
 
