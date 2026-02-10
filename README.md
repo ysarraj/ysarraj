@@ -20,7 +20,7 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 - **[InitialJ.com](https://InitialJ.com)** — Master kanji and vocabulary for each JLPT level through scientifically-proven spaced repetition.
 - **[Market-Sensei](https://www.marketsensei.app)** — Le Wagon Bootcamp Project : DeFi trading terminal with AI assistance and automated liquidation strategies
 - **[WebClinic](https://webclinic.ch)** — Swiss healthcare SaaS with custom websites and digital tooling for medical practices  
-- **[Maisongenkai.com](https://maisongenkai.com)** — Swiss-based brand curating authentic Japanese craftsmanship.
+- **[Maison Genkai](https://maisongenkai.com)** — Swiss-based brand curating authentic Japanese craftsmanship.
 - **[Genkai Works](https://genkai.works)** — Swiss software house (SARL), sector-agnostic
 
 ---
