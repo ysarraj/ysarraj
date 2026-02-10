@@ -17,10 +17,10 @@ MSc **Corporate Finance (HEC Lausanne)** with PE/VC/IB experience — now **Foun
 ---
 
 ### Building Now
-- **[InitialJ.com](https://InitialJ.com)** — Full-stack JDM car import platform with Next.js 16, Prisma ORM, and Stripe integration
+- **[InitialJ.com](https://InitialJ.com)** — Master kanji and vocabulary for each JLPT level through scientifically-proven spaced repetition.
 - **[Market-Sensei](https://www.marketsensei.app)** — Le Wagon Bootcamp Project : DeFi trading terminal with AI assistance and automated liquidation strategies
 - **[WebClinic](https://webclinic.ch)** — Swiss healthcare SaaS with custom websites and digital tooling for medical practices  
-- **[3xpat.com](https://3xpat.com)** — Platform for expatriate community with location services
+- **[Maisongenkai.com](https://maisongenkai.com)** — Swiss-based brand curating authentic Japanese craftsmanship—premium matcha tea, handcrafted ceramics, and traditional knives.
 - **[Genkai Works](https://genkai.works)** — Swiss software house (SARL), sector-agnostic
 
 ---
